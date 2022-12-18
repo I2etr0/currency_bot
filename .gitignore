@@ -1,0 +1,7 @@
+password.py
+key.py
+.idea
+venv
+__pycache__
+.DS_Store
+key.py

@@ -1,8 +1,9 @@
 import tenge_parser
+from key import key
 import telebot
 from telebot import types
 
-TOKEN = '5417008537:AAFJinudA_4-BrwFv0xaVlpXWXPS6DDBUYI'
+TOKEN = key
 bot = telebot.TeleBot(TOKEN)
 
 
